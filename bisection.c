@@ -1,3 +1,7 @@
+
+//Programın amacı: x3-7x2+14x-6=0 fonksiyonunun [0,1] aralığındaki kökünü yarılama yöntemine göre bulan bir C programı yazınız.
+//Program çalışması sonucunda ekranda” iterasyon sayısı, a, b, p, f(p)” değerleri alt alta yazdırılacaktır. 
+
 #include <stdio.h>
 
 int main() {
