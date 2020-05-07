@@ -1,3 +1,10 @@
+/*
+Programın amacı: “VERI.TXT” dosyasından nokta değerleri okunarak, ekrandan girilecek bir ara değer için 
+Lagrange katsayılarını hesaplayıp ekrana yazacak ve bu ara değer için fonksiyon sonucunu hesaplayıp ekrana
+yazacak bir C programı yazınız.  
+*/
+
+
 #include <iostream>
 #include <fstream>
 #include <string>
