@@ -1,3 +1,11 @@
+/*
+Programın amacı: x3-7x2+14x-6=0 fonksiyonunun [0,1] aralığındaki kökünü Newton raphson yöntemine göre bulan bir 
+C programı yazınız. p0=0,5 olarak alınacakdır. Program çalışması sonucunda ekranda” iterasyon sayısı, p, f(p)” 
+değerleri alt alta yazdırılacaktır. 
+ 
+ Not: Tolerans değeri 10-3 olarak alınacaktır. 1E-3
+ */
+
 #include <stdio.h>
 
 int main() {
